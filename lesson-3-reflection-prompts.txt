@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+In order to be able to share your code with others you need to maintain a remote repository.  Also it would be good practice to backup your code just in case you loose your local workstation.
+
